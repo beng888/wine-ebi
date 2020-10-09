@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wine-ebi/static/css/main.c371c6b2.chunk.css",
+    "main.js": "/wine-ebi/static/js/main.a8922a5e.chunk.js",
+    "main.js.map": "/wine-ebi/static/js/main.a8922a5e.chunk.js.map",
+    "runtime-main.js": "/wine-ebi/static/js/runtime-main.3e4a7f2e.js",
+    "runtime-main.js.map": "/wine-ebi/static/js/runtime-main.3e4a7f2e.js.map",
+    "static/css/2.f1260932.chunk.css": "/wine-ebi/static/css/2.f1260932.chunk.css",
+    "static/js/2.c56f6479.chunk.js": "/wine-ebi/static/js/2.c56f6479.chunk.js",
+    "static/js/2.c56f6479.chunk.js.map": "/wine-ebi/static/js/2.c56f6479.chunk.js.map",
+    "index.html": "/wine-ebi/index.html",
+    "precache-manifest.fd2b83e3ee67bd35510f5edf623ed698.js": "/wine-ebi/precache-manifest.fd2b83e3ee67bd35510f5edf623ed698.js",
+    "service-worker.js": "/wine-ebi/service-worker.js",
+    "static/css/2.f1260932.chunk.css.map": "/wine-ebi/static/css/2.f1260932.chunk.css.map",
+    "static/css/main.c371c6b2.chunk.css.map": "/wine-ebi/static/css/main.c371c6b2.chunk.css.map",
+    "static/js/2.c56f6479.chunk.js.LICENSE.txt": "/wine-ebi/static/js/2.c56f6479.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e4a7f2e.js",
+    "static/css/2.f1260932.chunk.css",
+    "static/js/2.c56f6479.chunk.js",
+    "static/css/main.c371c6b2.chunk.css",
+    "static/js/main.a8922a5e.chunk.js"
+  ]
+}
